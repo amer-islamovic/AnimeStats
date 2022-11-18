@@ -5,7 +5,7 @@ A tool looking at Anime data.
 ![This is an image](/Figure_2.png)
 
 ## Project Description
-This tool compares any amount of stock tickers entered by user, and shows performance adjusted for inflation!
+This tool looks at age, gender, rating for some of our favorite anime through the years!
 
 ## How to use
 
